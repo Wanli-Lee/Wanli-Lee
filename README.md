@@ -13,10 +13,6 @@ My research focuses on **agentic foundation models**, especially **computer-use 
 [![LiteResearcher stars](https://img.shields.io/github/stars/simplexai-labs/LiteResearcher?style=flat-square&logo=github&label=LiteResearcher&color=e3b341)](https://github.com/simplexai-labs/LiteResearcher)
 [![OmniGen2 stars](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2?style=flat-square&logo=github&label=OmniGen2&color=e3b341)](https://github.com/VectorSpaceLab/OmniGen2)
 
-#### Open Source
-
-I'm a core contributor to **[LoopX](https://github.com/loopx-project/loopx)**, an open-source control layer for long-horizon agents that preserves task state and coordinates work across sessions and runtimes.
-
 #### Tools I Work With
 
 **Training:** PyTorch · veRL · slime  
