@@ -10,6 +10,8 @@ My research focuses on **agentic foundation models**, especially **computer-use 
 
 [![LoopX stars](https://img.shields.io/github/stars/loopx-project/loopx?style=flat-square&logo=github&label=LoopX&color=e3b341)](https://github.com/loopx-project/loopx)
 [![WeaveBench stars](https://img.shields.io/github/stars/weavebench/WeaveBench?style=flat-square&logo=github&label=WeaveBench&color=e3b341)](https://github.com/weavebench/WeaveBench)
+[![LiteResearcher stars](https://img.shields.io/github/stars/simplexai-labs/LiteResearcher?style=flat-square&logo=github&label=LiteResearcher&color=e3b341)](https://github.com/simplexai-labs/LiteResearcher)
+[![OmniGen2 stars](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2?style=flat-square&logo=github&label=OmniGen2&color=e3b341)](https://github.com/VectorSpaceLab/OmniGen2)
 
 #### Open Source
 
